@@ -194,38 +194,38 @@ h4 .lighter
 
 /* Override YUI Button styles for - flat button style */
 
-.yui-skin-keensoftTheme .yui-button,
-.yui-skin-keensoftTheme .yui-button .first-child
+.yui-skin-ootbTheme .yui-button,
+.yui-skin-ootbTheme .yui-button .first-child
 {
    background: none repeat scroll 0 0 #fff;
 }
 
-.yui-skin-keensoftTheme div.flat-button span.yui-button
+.yui-skin-ootbTheme div.flat-button span.yui-button
 {
    background: none;
    border-color: transparent;
 }
 
-.yui-skin-keensoftTheme div.flat-button span.yui-button span.first-child
+.yui-skin-ootbTheme div.flat-button span.yui-button span.first-child
 {
    border-color: transparent;
 }
 
-.yui-skin-keensoftTheme div.flat-button span.yui-button-hover,
-.yui-skin-keensoftTheme div.flat-button span.yui-button-focus
+.yui-skin-ootbTheme div.flat-button span.yui-button-hover,
+.yui-skin-ootbTheme div.flat-button span.yui-button-focus
 {
    background: transparent;
    border-color: #ccc;
 }
 
-.yui-skin-keensoftTheme div.flat-button span.yui-button-hover span.first-child,
-.yui-skin-keensoftTheme div.flat-button span.yui-button-focus span.first-child
+.yui-skin-ootbTheme div.flat-button span.yui-button-hover span.first-child,
+.yui-skin-ootbTheme div.flat-button span.yui-button-focus span.first-child
 {
    border-color: #ccc;
 }
 
-.yui-skin-keensoftTheme div.flat-button span.yui-radio-button-checked,
-.yui-skin-keensoftTheme div.flat-button span.yui-checkbox-button-checked
+.yui-skin-ootbTheme div.flat-button span.yui-radio-button-checked,
+.yui-skin-ootbTheme div.flat-button span.yui-checkbox-button-checked
 {
    border: 1px solid #ccc;
 }
@@ -294,12 +294,12 @@ h4 .lighter
    border-right: solid 1px #ccc !important;
 }
 
-.yui-skin-keensoftTheme .yui-panel-container.shadow .underlay
+.yui-skin-ootbTheme .yui-panel-container.shadow .underlay
 {
    display: none !important;
 }
 
-.yui-skin-keensoftTheme .yui-panel
+.yui-skin-ootbTheme .yui-panel
 {
    border-bottom: medium none;
    box-shadow: 0.33px 2px 8px rgba(0, 0, 0, 0.3);
@@ -307,15 +307,15 @@ h4 .lighter
    min-width: 36em;
 }
 
-.yui-skin-keensoftTheme .mask
+.yui-skin-ootbTheme .mask
 {
    opacity: 0.2;
 }
 
-.yui-skin-keensoftTheme .yui-panel .hd,
-.yui-skin-keensoftTheme .yui-panel .form-buttons,
-.yui-skin-keensoftTheme .yui-panel .bdft,
-.yui-skin-keensoftTheme .yui-panel .ft
+.yui-skin-ootbTheme .yui-panel .hd,
+.yui-skin-ootbTheme .yui-panel .form-buttons,
+.yui-skin-ootbTheme .yui-panel .bdft,
+.yui-skin-ootbTheme .yui-panel .ft
 {
    color: #333;
    background: #eee;
@@ -323,7 +323,7 @@ h4 .lighter
    border-right-color: #ccc;
 }
 
-.yui-skin-keensoftTheme .yui-panel .hd
+.yui-skin-ootbTheme .yui-panel .hd
 {
    font-family: Open Sans Condensed, Arial, sans-serif;
    font-size: 185%;
@@ -335,8 +335,8 @@ h4 .lighter
    padding: 0.25em;
 }
 
-.yui-skin-keensoftTheme .yui-panel .form-buttons,
-.yui-skin-keensoftTheme .yui-panel .bdft
+.yui-skin-ootbTheme .yui-panel .form-buttons,
+.yui-skin-ootbTheme .yui-panel .bdft
 {
    font-size: 100%;
    border-top: 1px solid #ccc;
@@ -344,12 +344,12 @@ h4 .lighter
    border-bottom-right-radius: 6px;
 }
 
-.yui-skin-keensoftTheme .yui-panel div.form-fields
+.yui-skin-ootbTheme .yui-panel div.form-fields
 {
    border-bottom: none;
 }
 
-.yui-skin-keensoftTheme .yui-panel .ft
+.yui-skin-ootbTheme .yui-panel .ft
 {
    border-top: 1px solid #ccc;
    padding: 5px;
@@ -357,7 +357,7 @@ h4 .lighter
    border-bottom-right-radius: 6px;
 }
 
-.yui-skin-keensoftTheme .yui-panel .bd
+.yui-skin-ootbTheme .yui-panel .bd
 {
    color: #333;
    background-color: #fff;
@@ -367,12 +367,12 @@ h4 .lighter
    border-bottom-right-radius: 6px;
 }
 
-.yui-skin-keensoftTheme .yui-panel .bd .yui-resize .yui-resize-handle
+.yui-skin-ootbTheme .yui-panel .bd .yui-resize .yui-resize-handle
 {
    background-color: transparent;
 }
 
-.yui-skin-keensoftTheme .yui-panel .bd .help
+.yui-skin-ootbTheme .yui-panel .bd .help
 {
    font-size: 83%;
 }
@@ -385,78 +385,78 @@ h4 .lighter
 
 /* Data Lists: DataTable (Needs to appear before yui-dt-highlighted rule) */
 
-.yui-skin-keensoftTheme .datagrid tr.yui-dt-even
+.yui-skin-ootbTheme .datagrid tr.yui-dt-even
 {
    background-color: #fff;
 }
-.yui-skin-keensoftTheme .datagrid tr.yui-dt-even td.yui-dt-asc,
-.yui-skin-keensoftTheme .datagrid tr.yui-dt-even td.yui-dt-desc
+.yui-skin-ootbTheme .datagrid tr.yui-dt-even td.yui-dt-asc,
+.yui-skin-ootbTheme .datagrid tr.yui-dt-even td.yui-dt-desc
 {
    background-color: #f8f8f8;
 }
 
-.yui-skin-keensoftTheme .datagrid tr.yui-dt-odd
+.yui-skin-ootbTheme .datagrid tr.yui-dt-odd
 {
    background-color: #f8f8f8;
 }
-.yui-skin-keensoftTheme .datagrid tr.yui-dt-odd td.yui-dt-asc,
-.yui-skin-keensoftTheme .datagrid tr.yui-dt-odd td.yui-dt-desc
+.yui-skin-ootbTheme .datagrid tr.yui-dt-odd td.yui-dt-asc,
+.yui-skin-ootbTheme .datagrid tr.yui-dt-odd td.yui-dt-desc
 {
    background-color: #f0f0f0;
 }
 
 /* End Data Lists */
 
-.yui-skin-keensoftTheme .yui-dt-data tr.yui-dt-highlighted td.yui-dt-asc,
-.yui-skin-keensoftTheme .yui-dt-data tr.yui-dt-highlighted td.yui-dt-desc
+.yui-skin-ootbTheme .yui-dt-data tr.yui-dt-highlighted td.yui-dt-asc,
+.yui-skin-ootbTheme .yui-dt-data tr.yui-dt-highlighted td.yui-dt-desc
 {
    background-color: #eee;
    cursor: auto;
 }
 
-.yui-skin-keensoftTheme .yui-dt-message,
-.yui-skin-keensoftTheme .yui-dt-message tr.yui-dt-highlighted
+.yui-skin-ootbTheme .yui-dt-message,
+.yui-skin-ootbTheme .yui-dt-message tr.yui-dt-highlighted
 {
    background-color: #fff;
 }
 
 /* Style the default message  */
 
-.yui-skin-keensoftTheme #message .bd
+.yui-skin-ootbTheme #message .bd
 {
    background-color: #808080;
    color: white;
 }
 
-.yui-skin-keensoftTheme #message .bd span.wait
+.yui-skin-ootbTheme #message .bd span.wait
 {
    background-image: url(images/wait.gif);
    background-repeat: no-repeat;
 }
 
-.yui-skin-keensoftTheme .yui-overlay-hidden #message .bd span.wait
+.yui-skin-ootbTheme .yui-overlay-hidden #message .bd span.wait
 {
    display: none;
 }
 
 /* Style the default prompt */
 
-.yui-skin-keensoftTheme #prompt,
-.yui-skin-keensoftTheme #userInput
+.yui-skin-ootbTheme #prompt,
+.yui-skin-ootbTheme #userInput
 {
    border-top: 1px solid #ccc;
    border-bottom: 1px solid #ccc;
    background-color: #fff;
 }
 
-.yui-skin-keensoftTheme #prompt .bd,
-.yui-skin-keensoftTheme #userInput .bd
+.yui-skin-ootbTheme #prompt .bd,
+.yui-skin-ootbTheme #userInput .bd
 {
    background-color: #fff;
 }
 
-.yui-skin-keensoftTheme #prompt .ft,
-.yui-skin-keensoftTheme #userInput .ft
+.yui-skin-ootbTheme #prompt .ft,
+.yui-skin-ootbTheme #userInput .ft
 {
    border-left: 1px solid #ccc;
    border-right: 1px solid #ccc;
@@ -650,7 +650,7 @@ span.navigation-separator-alt
    padding: 0.5em 0.2em 0 !important;
 }
 
-.yui-skin-keensoftTheme .yui-navset .yui-content
+.yui-skin-ootbTheme .yui-navset .yui-content
 {
    background: #fafafa;
 }
@@ -691,27 +691,27 @@ span.mce_alfresco-linklibrary
 
 /* Override checked styles for doclist */
 
-.yui-skin-keensoftTheme .no-check-bg div.flat-button span.yui-radio-button-checked,
-.yui-skin-keensoftTheme .no-check-bg div.flat-button span.yui-checkbox-button-checked,
-.yui-skin-keensoftTheme .no-check-bg div.flat-button span.yui-radio-button-checked,
-.yui-skin-keensoftTheme .no-check-bg div.flat-button span.yui-checkbox-button-checked
+.yui-skin-ootbTheme .no-check-bg div.flat-button span.yui-radio-button-checked,
+.yui-skin-ootbTheme .no-check-bg div.flat-button span.yui-checkbox-button-checked,
+.yui-skin-ootbTheme .no-check-bg div.flat-button span.yui-radio-button-checked,
+.yui-skin-ootbTheme .no-check-bg div.flat-button span.yui-checkbox-button-checked
 {
    border-color: #ccc;
    background: none;
 }
 
-.yui-skin-keensoftTheme .no-check-bg div.flat-button span.yui-radio-button-checked span.first-child,
-.yui-skin-keensoftTheme .no-check-bg div.flat-button span.yui-checkbox-button-checked span.first-child,
-.yui-skin-keensoftTheme .no-check-bg div.flat-button span.yui-radio-button-checked span.first-child,
-.yui-skin-keensoftTheme .no-check-bg div.flat-button span.yui-checkbox-button-checked span.first-child
+.yui-skin-ootbTheme .no-check-bg div.flat-button span.yui-radio-button-checked span.first-child,
+.yui-skin-ootbTheme .no-check-bg div.flat-button span.yui-checkbox-button-checked span.first-child,
+.yui-skin-ootbTheme .no-check-bg div.flat-button span.yui-radio-button-checked span.first-child,
+.yui-skin-ootbTheme .no-check-bg div.flat-button span.yui-checkbox-button-checked span.first-child
 {
    border-color: #ccc;
 }
 
 /* Ensure hover state can be activated */
 
-.yui-skin-keensoftTheme .no-check-bg div.flat-button span.yui-button-hover,
-.yui-skin-keensoftTheme .no-check-bg div.flat-button span.yui-button-focus
+.yui-skin-ootbTheme .no-check-bg div.flat-button span.yui-button-hover,
+.yui-skin-ootbTheme .no-check-bg div.flat-button span.yui-button-focus
 {
    background: none;
    border-color: #ccc;
@@ -719,87 +719,87 @@ span.mce_alfresco-linklibrary
 
 /* Override YUI Button styles for - title button style */
 
-.yui-skin-keensoftTheme .title-button .yui-button
+.yui-skin-ootbTheme .title-button .yui-button
 {
    border-color: #ccc;
 }
 
-.yui-skin-keensoftTheme .title-button a:hover
+.yui-skin-ootbTheme .title-button a:hover
 {
    color: #000;
 }
 
-.yui-skin-keensoftTheme .title-button .yui-button .first-child,
-.yui-skin-keensoftTheme .title-button .yui-button
+.yui-skin-ootbTheme .title-button .yui-button .first-child,
+.yui-skin-ootbTheme .title-button .yui-button
 {
    border-color: #ccc;
 }
 
-.yui-skin-keensoftTheme .yui-button,
-.yui-skin-keensoftTheme .yui-button .first-child
+.yui-skin-ootbTheme .yui-button,
+.yui-skin-ootbTheme .yui-button .first-child
 {
    background: none repeat scroll 0 0 #fff;
 }
 
 /* Override YUI Button styles for - attention button style */
 
-.yui-skin-keensoftTheme .alfresco-attention-yui-button,
-.yui-skin-keensoftTheme .alfresco-attention-yui-button span.first-child
+.yui-skin-ootbTheme .alfresco-attention-yui-button,
+.yui-skin-ootbTheme .alfresco-attention-yui-button span.first-child
 {
    border-color: #e0b000;
 }
 
-.yui-skin-keensoftTheme .alfresco-attention-yui-button.yui-button
+.yui-skin-ootbTheme .alfresco-attention-yui-button.yui-button
 {
    background-position: 0 -2000px;
 }
 
-.yui-skin-keensoftTheme .alfresco-attention-yui-button.yui-button-hover
+.yui-skin-ootbTheme .alfresco-attention-yui-button.yui-button-hover
 {
    background-position: 0 -2100px;
 }
 
-.yui-skin-keensoftTheme .alfresco-attention-yui-button.yui-button-disabled
+.yui-skin-ootbTheme .alfresco-attention-yui-button.yui-button-disabled
 {
    background-position: 0 -2200px;
 }
 
 /* Paginator link styling */
 
-.yui-skin-keensoftTheme .yui-pg-container span
+.yui-skin-ootbTheme .yui-pg-container span
 {
    color: #333;
 }
 
-.yui-skin-keensoftTheme .yui-pg-container span.yui-pg-page.yui-pg-current-page
+.yui-skin-ootbTheme .yui-pg-container span.yui-pg-page.yui-pg-current-page
 {
    color: #333;
    font-weight: normal;
 }
 
-.yui-skin-keensoftTheme .yui-pg-container a.yui-pg-first,
-.yui-skin-keensoftTheme .yui-pg-container a.yui-pg-previous,
-.yui-skin-keensoftTheme .yui-pg-container a.yui-pg-page,
-.yui-skin-keensoftTheme .yui-pg-container a.yui-pg-next,
-.yui-skin-keensoftTheme .yui-pg-container a.yui-pg-last
+.yui-skin-ootbTheme .yui-pg-container a.yui-pg-first,
+.yui-skin-ootbTheme .yui-pg-container a.yui-pg-previous,
+.yui-skin-ootbTheme .yui-pg-container a.yui-pg-page,
+.yui-skin-ootbTheme .yui-pg-container a.yui-pg-next,
+.yui-skin-ootbTheme .yui-pg-container a.yui-pg-last
 {
    border-color: #ccc;
    color: #333;
    text-decoration: none;
 }
 
-.yui-skin-keensoftTheme .yui-pg-container a.yui-pg-first:hover,
-.yui-skin-keensoftTheme .yui-pg-container a.yui-pg-previous:hover,
-.yui-skin-keensoftTheme .yui-pg-container a.yui-pg-page:hover,
-.yui-skin-keensoftTheme .yui-pg-container a.yui-pg-next:hover,
-.yui-skin-keensoftTheme .yui-pg-container a.yui-pg-last:hover
+.yui-skin-ootbTheme .yui-pg-container a.yui-pg-first:hover,
+.yui-skin-ootbTheme .yui-pg-container a.yui-pg-previous:hover,
+.yui-skin-ootbTheme .yui-pg-container a.yui-pg-page:hover,
+.yui-skin-ootbTheme .yui-pg-container a.yui-pg-next:hover,
+.yui-skin-ootbTheme .yui-pg-container a.yui-pg-last:hover
 {
    text-decoration: underline;
 }
 
 /* A combination of a link and splitbutton wrapped inside a span */
 
-.yui-skin-keensoftTheme .link-menu-button .yui-button span button
+.yui-skin-ootbTheme .link-menu-button .yui-button span button
 {
    color: #333;
    font-size: 2px;
@@ -807,37 +807,37 @@ span.mce_alfresco-linklibrary
    background-position: center center;
 }
 
-body.yui-skin-keensoftTheme .link-menu-button .yui-button.yui-button-hover
+body.yui-skin-ootbTheme .link-menu-button .yui-button.yui-button-hover
 {
    background-color: #fff;
    border: 1px solid #ccc;
 }
 
-body.yui-skin-keensoftTheme .link-menu-button.link-menu-button-menu-active .yui-button.yui-button-hover
+body.yui-skin-ootbTheme .link-menu-button.link-menu-button-menu-active .yui-button.yui-button-hover
 {
    border-color: transparent;
    background-color: transparent;
 }
 
-.yui-skin-keensoftTheme .link-menu-button .yui-button span.first-child,
-.yui-skin-keensoftTheme .link-menu-button .yui-button.yui-button-activeoption span.first-child,
-.yui-skin-keensoftTheme .link-menu-button .yui-button.yui-button-hover span.first-child
+.yui-skin-ootbTheme .link-menu-button .yui-button span.first-child,
+.yui-skin-ootbTheme .link-menu-button .yui-button.yui-button-activeoption span.first-child,
+.yui-skin-ootbTheme .link-menu-button .yui-button.yui-button-hover span.first-child
 {
    border-width: 0;
 }
 
-.yui-skin-keensoftTheme .link-menu-button span.link-menu-button-link
+.yui-skin-ootbTheme .link-menu-button span.link-menu-button-link
 {
    border-right: 1px #ccc solid;
 }
 
-body.yui-skin-keensoftTheme .link-menu-button.link-menu-button-menu-active
+body.yui-skin-ootbTheme .link-menu-button.link-menu-button-menu-active
 {
    background-color: #fff;
    border: 1px solid #ccc;
 }
 
-.yui-skin-keensoftTheme .link-menu-button.link-menu-button-menu-active .yui-button.yui-menu-button-hover
+.yui-skin-ootbTheme .link-menu-button.link-menu-button-menu-active .yui-button.yui-menu-button-hover
 {
    border: 1px solid #fff;
 }
@@ -898,11 +898,11 @@ body.yui-skin-keensoftTheme .link-menu-button.link-menu-button-menu-active
 
 /* blog/wiki action items links */
 
-body.yui-skin-keensoftTheme .wikipage .editPage a:hover,
-body.yui-skin-keensoftTheme .wikipage .deletePage a:hover,
-body.yui-skin-keensoftTheme .wikipage .detailsPage a:hover,
-body.yui-skin-keensoftTheme .nodeEdit .onEditBlogPost a:hover,
-body.yui-skin-keensoftTheme .nodeEdit .onDeleteBlogPost a:hover
+body.yui-skin-ootbTheme .wikipage .editPage a:hover,
+body.yui-skin-ootbTheme .wikipage .deletePage a:hover,
+body.yui-skin-ootbTheme .wikipage .detailsPage a:hover,
+body.yui-skin-ootbTheme .nodeEdit .onEditBlogPost a:hover,
+body.yui-skin-ootbTheme .nodeEdit .onDeleteBlogPost a:hover
 {
 
 }
@@ -920,14 +920,14 @@ body.yui-skin-keensoftTheme .nodeEdit .onDeleteBlogPost a:hover
 
 /* YUI Menu */
 
-body.yui-skin-keensoftTheme .yuimenu .bd
+body.yui-skin-ootbTheme .yuimenu .bd
 {
    border: 1px solid #ccc;
    padding: 3px;
    font-size: 109%;
 }
 
-body.yui-skin-keensoftTheme .yuimenu .bd a:focus
+body.yui-skin-ootbTheme .yuimenu .bd a:focus
 {
    outline: none;
    background-color: #eee;
@@ -936,17 +936,17 @@ body.yui-skin-keensoftTheme .yuimenu .bd a:focus
 /*
  * This ensures that the quick share actions can get displayed focus
  */
-body.yui-skin-keensoftTheme .yuimenu.quickshare-action-menu .bd a:focus
+body.yui-skin-ootbTheme .yuimenu.quickshare-action-menu .bd a:focus
 {
    outline: 1px dotted;
 }
 
-.yui-skin-keensoftTheme .yui-menu-shadow-visible
+.yui-skin-ootbTheme .yui-menu-shadow-visible
 {
    display: none !important;
 }
 
-.yui-skin-keensoftTheme .yuimenu h6
+.yui-skin-ootbTheme .yuimenu h6
 {
    border: none;
    font-family: Open Sans Bold, Arial, sans-serif;
@@ -954,32 +954,32 @@ body.yui-skin-keensoftTheme .yuimenu.quickshare-action-menu .bd a:focus
 
 /* YUI Menu roll over state */
 
-body.yui-skin-keensoftTheme .yuimenuitemlabel
+body.yui-skin-ootbTheme .yuimenuitemlabel
 {
    text-decoration: none;
 }
 
-body.yui-skin-keensoftTheme .yuimenu .bd ul li.yuimenuitem-selected
+body.yui-skin-ootbTheme .yuimenu .bd ul li.yuimenuitem-selected
 {
    background-color: #eee;
 }
 
-body.yui-skin-keensoftTheme .yuimenu .bd ul li.yuimenuitem  a.yuimenuitemlabel:focus, 
-body.yui-skin-keensoftTheme .yuimenu .bd ul li.yuimenuitem  a.yuimenuitemlabel:hover,
-body.yui-skin-keensoftTheme .yuimenu .bd ul li.yuimenuitem-selected a.yuimenuitemlabel:focus, 
-body.yui-skin-keensoftTheme .yuimenu .bd ul li.yuimenuitem-selected a.yuimenuitemlabel:hover {
+body.yui-skin-ootbTheme .yuimenu .bd ul li.yuimenuitem  a.yuimenuitemlabel:focus, 
+body.yui-skin-ootbTheme .yuimenu .bd ul li.yuimenuitem  a.yuimenuitemlabel:hover,
+body.yui-skin-ootbTheme .yuimenu .bd ul li.yuimenuitem-selected a.yuimenuitemlabel:focus, 
+body.yui-skin-ootbTheme .yuimenu .bd ul li.yuimenuitem-selected a.yuimenuitemlabel:hover {
   color: #000;
 }
 
-body.yui-skin-keensoftTheme .yuimenu .bd ul li.yuimenuitem .yuimenuitemlabel,
-body.yui-skin-keensoftTheme .yuimenu .bd ul li.yuimenuitem .yuimenuitemlabel a,
-body.yui-skin-keensoftTheme .yuimenu .bd ul li.yuimenuitem-selected div .yuimenuitemlabel,
-body.yui-skin-keensoftTheme .yuimenu .bd ul li.yuimenuitem-selected div .yuimenuitemlabel a
+body.yui-skin-ootbTheme .yuimenu .bd ul li.yuimenuitem .yuimenuitemlabel,
+body.yui-skin-ootbTheme .yuimenu .bd ul li.yuimenuitem .yuimenuitemlabel a,
+body.yui-skin-ootbTheme .yuimenu .bd ul li.yuimenuitem-selected div .yuimenuitemlabel,
+body.yui-skin-ootbTheme .yuimenu .bd ul li.yuimenuitem-selected div .yuimenuitemlabel a
 {
    color: #000;
 }
 
-body.yui-skin-keensoftTheme .yuimenu .bd ul li.yuimenuitem .yuimenuitemlabel-disabled
+body.yui-skin-ootbTheme .yuimenu .bd ul li.yuimenuitem .yuimenuitemlabel-disabled
 {
    color: #aaa;
    cursor: default;
@@ -989,26 +989,26 @@ body.yui-skin-keensoftTheme .yuimenu .bd ul li.yuimenuitem .yuimenuitemlabel-dis
 
 /* Location */
 
-.yui-skin-keensoftTheme .location-path,
-.yui-skin-keensoftTheme .location-site
+.yui-skin-ootbTheme .location-path,
+.yui-skin-ootbTheme .location-site
 {
    background-position: left 50%;
    background-repeat: no-repeat;
    padding: 2px 0 2px 20px;
 }
 
-.yui-skin-keensoftTheme .location-none
+.yui-skin-ootbTheme .location-none
 {
    margin-left: 0.5em;
 }
 
-.yui-skin-keensoftTheme .location-path
+.yui-skin-ootbTheme .location-path
 {
    background-image: url(../../components/documentlibrary/images/folder-closed-16.png);
    margin-left: 0.5em;
 }
 
-.yui-skin-keensoftTheme .location-site
+.yui-skin-ootbTheme .location-site
 {
    background-image: url(../../components/images/site-16.png);
 }
@@ -1016,32 +1016,32 @@ body.yui-skin-keensoftTheme .yuimenu .bd ul li.yuimenuitem .yuimenuitemlabel-dis
 /* end Location*/
 
 /* Doclist */
-body.yui-skin-keensoftTheme .doclist .more-actions a:active,
-body.yui-skin-keensoftTheme .doclist .more-actions a:hover
+body.yui-skin-ootbTheme .doclist .more-actions a:active,
+body.yui-skin-ootbTheme .doclist .more-actions a:hover
 {
    background-color: #eee;
    color: #333;
 }
 
-body.yui-skin-keensoftTheme .doclist div.more-actions
+body.yui-skin-ootbTheme .doclist div.more-actions
 {
    border: 1px solid #ccc;
 }
 
-body.yui-skin-keensoftTheme .doclist .action-set a:active,
-body.yui-skin-keensoftTheme .doclist .action-set a:hover,
-body.yui-skin-keensoftTheme .doclist .action-set .highlighted,
+body.yui-skin-ootbTheme .doclist .action-set a:active,
+body.yui-skin-ootbTheme .doclist .action-set a:hover,
+body.yui-skin-ootbTheme .doclist .action-set .highlighted,
 #divCalendarContent .yui-dt-col-actions a:active,
 #divCalendarContent .yui-dt-col-actions a:hover
 {
    border: 1px solid #ccc;
 }
 
-body.yui-skin-keensoftTheme .yui-dt-data tr.yui-dt-highlighted,
-body.yui-skin-keensoftTheme .doclist tr.yui-dt-odd.yui-dt-highlighted,
-body.yui-skin-keensoftTheme .doclist tr.yui-dt-even.yui-dt-highlighted,
-body.yui-skin-keensoftTheme .links-body tr.links-selected-row,
-body.yui-skin-keensoftTheme .over,
+body.yui-skin-ootbTheme .yui-dt-data tr.yui-dt-highlighted,
+body.yui-skin-ootbTheme .doclist tr.yui-dt-odd.yui-dt-highlighted,
+body.yui-skin-ootbTheme .doclist tr.yui-dt-even.yui-dt-highlighted,
+body.yui-skin-ootbTheme .links-body tr.links-selected-row,
+body.yui-skin-ootbTheme .over,
 .topicview
 {
    background-color: #F5F5F5;
@@ -1052,49 +1052,49 @@ body.yui-skin-keensoftTheme .over,
    background-color: #F5F5F5;
 }
 
-body.yui-skin-keensoftTheme .doclist tr.yui-dt-odd.yui-dt-highlighted td.yui-dt-last,
-body.yui-skin-keensoftTheme .doclist tr.yui-dt-even.yui-dt-highlighted td.yui-dt-last
+body.yui-skin-ootbTheme .doclist tr.yui-dt-odd.yui-dt-highlighted td.yui-dt-last,
+body.yui-skin-ootbTheme .doclist tr.yui-dt-even.yui-dt-highlighted td.yui-dt-last
 {
    border-left: 1px solid #ccc;
 }
 
-body.yui-skin-keensoftTheme .categoryview .category .ygtvtn,
-body.yui-skin-keensoftTheme .categoryview .category .ygtvtm,
-body.yui-skin-keensoftTheme .categoryview .category .ygtvtmh, body.yui-skin-keensoftTheme .categoryview .category .ygtvtmhh,
-body.yui-skin-keensoftTheme .categoryview .category .ygtvtp,
-body.yui-skin-keensoftTheme .categoryview .category .ygtvtph, body.yui-skin-keensoftTheme .categoryview .category .ygtvtphh,
-body.yui-skin-keensoftTheme .categoryview .category .ygtvln,
-body.yui-skin-keensoftTheme .categoryview .category .ygtvlm,
-body.yui-skin-keensoftTheme .categoryview .category .ygtvlmh, body.yui-skin-keensoftTheme .categoryview .category .ygtvlmhh,
-body.yui-skin-keensoftTheme .categoryview .category .ygtvlp,
-body.yui-skin-keensoftTheme .categoryview .category .ygtvlph, body.yui-skin-keensoftTheme .categoryview .category .ygtvlphh,
-body.yui-skin-keensoftTheme .categoryview .category .ygtvdepthcell
+body.yui-skin-ootbTheme .categoryview .category .ygtvtn,
+body.yui-skin-ootbTheme .categoryview .category .ygtvtm,
+body.yui-skin-ootbTheme .categoryview .category .ygtvtmh, body.yui-skin-ootbTheme .categoryview .category .ygtvtmhh,
+body.yui-skin-ootbTheme .categoryview .category .ygtvtp,
+body.yui-skin-ootbTheme .categoryview .category .ygtvtph, body.yui-skin-ootbTheme .categoryview .category .ygtvtphh,
+body.yui-skin-ootbTheme .categoryview .category .ygtvln,
+body.yui-skin-ootbTheme .categoryview .category .ygtvlm,
+body.yui-skin-ootbTheme .categoryview .category .ygtvlmh, body.yui-skin-ootbTheme .categoryview .category .ygtvlmhh,
+body.yui-skin-ootbTheme .categoryview .category .ygtvlp,
+body.yui-skin-ootbTheme .categoryview .category .ygtvlph, body.yui-skin-ootbTheme .categoryview .category .ygtvlphh,
+body.yui-skin-ootbTheme .categoryview .category .ygtvdepthcell
 {
    background-image: url(images/categoryview-sprite.gif);
    padding: 1px;
 }
 
-body.yui-skin-keensoftTheme .treeview a:focus,
-body.yui-skin-keensoftTheme .category a:focus
+body.yui-skin-ootbTheme .treeview a:focus,
+body.yui-skin-ootbTheme .category a:focus
 {
    outline: 1px solid #ccc;
 }
 
-body.yui-skin-keensoftTheme .treeview .ygtvtn,
-body.yui-skin-keensoftTheme .treeview .ygtvtm,
-body.yui-skin-keensoftTheme .treeview .ygtvtmh,
-body.yui-skin-keensoftTheme .treeview .ygtvtmhh,
-body.yui-skin-keensoftTheme .treeview .ygtvtp,
-body.yui-skin-keensoftTheme .treeview .ygtvtph,
-body.yui-skin-keensoftTheme .treeview .ygtvtphh,
-body.yui-skin-keensoftTheme .treeview .ygtvln,
-body.yui-skin-keensoftTheme .treeview .ygtvlm,
-body.yui-skin-keensoftTheme .treeview .ygtvlmh,
-body.yui-skin-keensoftTheme .treeview .ygtvlmhh,
-body.yui-skin-keensoftTheme .treeview .ygtvlp,
-body.yui-skin-keensoftTheme .treeview .ygtvlph,
-body.yui-skin-keensoftTheme .treeview .ygtvlphh,
-body.yui-skin-keensoftTheme .treeview .ygtvdepthcell
+body.yui-skin-ootbTheme .treeview .ygtvtn,
+body.yui-skin-ootbTheme .treeview .ygtvtm,
+body.yui-skin-ootbTheme .treeview .ygtvtmh,
+body.yui-skin-ootbTheme .treeview .ygtvtmhh,
+body.yui-skin-ootbTheme .treeview .ygtvtp,
+body.yui-skin-ootbTheme .treeview .ygtvtph,
+body.yui-skin-ootbTheme .treeview .ygtvtphh,
+body.yui-skin-ootbTheme .treeview .ygtvln,
+body.yui-skin-ootbTheme .treeview .ygtvlm,
+body.yui-skin-ootbTheme .treeview .ygtvlmh,
+body.yui-skin-ootbTheme .treeview .ygtvlmhh,
+body.yui-skin-ootbTheme .treeview .ygtvlp,
+body.yui-skin-ootbTheme .treeview .ygtvlph,
+body.yui-skin-ootbTheme .treeview .ygtvlphh,
+body.yui-skin-ootbTheme .treeview .ygtvdepthcell
 {
    background-image: url(images/treeview-sprite.gif) !important;
 }
@@ -1113,85 +1113,85 @@ body.yui-skin-keensoftTheme .treeview .ygtvdepthcell
    background-color: #fff;
 }
 
-.yui-skin-keensoftTheme .dayview h2, .weekview h2,
-.yui-skin-keensoftTheme .calendar.weekview thead th,
-.yui-skin-keensoftTheme .calendar.monthview thead th
+.yui-skin-ootbTheme .dayview h2, .weekview h2,
+.yui-skin-ootbTheme .calendar.weekview thead th,
+.yui-skin-ootbTheme .calendar.monthview thead th
 {
    color: #000;
 }
 
 /* filter list link */
 
-.yui-skin-keensoftTheme li.selected,
-body.yui-skin-keensoftTheme .treeview .selected,
-body.yui-skin-keensoftTheme .categoryview .selected,
-body.yui-skin-keensoftTheme .yui-columnbrowser .yui-carousel-content li.yui-columnbrowser-column a.yui-columnbrowser-item-selected
+.yui-skin-ootbTheme li.selected,
+body.yui-skin-ootbTheme .treeview .selected,
+body.yui-skin-ootbTheme .categoryview .selected,
+body.yui-skin-ootbTheme .yui-columnbrowser .yui-carousel-content li.yui-columnbrowser-column a.yui-columnbrowser-item-selected
 {
    background-color: #eee;
 }
 
 /* these rules need to be separate from the above for ie6 */
-.yui-skin-keensoftTheme .treeview .selected > table,
-.yui-skin-keensoftTheme .categoryview .selected > table
+.yui-skin-ootbTheme .treeview .selected > table,
+.yui-skin-ootbTheme .categoryview .selected > table
 {
    background-color: #eee;
 }
 
-.yui-skin-keensoftTheme .filter a.disabled,
-.yui-skin-keensoftTheme .filter a.disabled:active,
-.yui-skin-keensoftTheme .filter a.disabled:hover,
-.yui-skin-keensoftTheme .filter a.disabled:visited,
-.yui-skin-keensoftTheme .tags a.disabled,
-.yui-skin-keensoftTheme .tags a.disabled:active,
-.yui-skin-keensoftTheme .tags a.disabled:hover,
-.yui-skin-keensoftTheme .tags a.disabled:visited
+.yui-skin-ootbTheme .filter a.disabled,
+.yui-skin-ootbTheme .filter a.disabled:active,
+.yui-skin-ootbTheme .filter a.disabled:hover,
+.yui-skin-ootbTheme .filter a.disabled:visited,
+.yui-skin-ootbTheme .tags a.disabled,
+.yui-skin-ootbTheme .tags a.disabled:active,
+.yui-skin-ootbTheme .tags a.disabled:hover,
+.yui-skin-ootbTheme .tags a.disabled:visited
 {
    color: #ccc;
    cursor: not-allowed;
 }
 
-.yui-skin-keensoftTheme .filter a:hover,
-.yui-skin-keensoftTheme .tags a:hover
+.yui-skin-ootbTheme .filter a:hover,
+.yui-skin-ootbTheme .tags a:hover
 {
    text-decoration: none;
 }
 
 /* Link color */
 
-.yui-skin-keensoftTheme .node .nodeTitle a,
-.yui-skin-keensoftTheme .node .nodeURL a,
-.yui-skin-keensoftTheme .nodeAttrValue a,
-.yui-skin-keensoftTheme .nodeFooter .tag a,
-.yui-skin-keensoftTheme .yui-dt-highlighted .tag a,
-.yui-skin-keensoftTheme .yui-dt-highlighted .category a,
-.yui-skin-keensoftTheme .yui-dt-highlighted .item-social a,
-.yui-skin-keensoftTheme a.wiki-tag-link,
-.yui-skin-keensoftTheme .node .userLink a,
-.yui-skin-keensoftTheme .site-members h3 a,
-.yui-skin-keensoftTheme .yui-calendar td.calcell a,
-.yui-skin-keensoftTheme .doclist .documents a,
-.yui-skin-keensoftTheme .attrValue a,
-.yui-skin-keensoftTheme .detail .item a,
-.yui-skin-keensoftTheme .info .meta-value a,
-.yui-skin-keensoftTheme .rules-none a,
-.yui-skin-keensoftTheme .agendaview a,
-.yui-skin-keensoftTheme a.previousEvents,
-.yui-skin-keensoftTheme a.nextEvents,
-.yui-skin-keensoftTheme div.channels a
+.yui-skin-ootbTheme .node .nodeTitle a,
+.yui-skin-ootbTheme .node .nodeURL a,
+.yui-skin-ootbTheme .nodeAttrValue a,
+.yui-skin-ootbTheme .nodeFooter .tag a,
+.yui-skin-ootbTheme .yui-dt-highlighted .tag a,
+.yui-skin-ootbTheme .yui-dt-highlighted .category a,
+.yui-skin-ootbTheme .yui-dt-highlighted .item-social a,
+.yui-skin-ootbTheme a.wiki-tag-link,
+.yui-skin-ootbTheme .node .userLink a,
+.yui-skin-ootbTheme .site-members h3 a,
+.yui-skin-ootbTheme .yui-calendar td.calcell a,
+.yui-skin-ootbTheme .doclist .documents a,
+.yui-skin-ootbTheme .attrValue a,
+.yui-skin-ootbTheme .detail .item a,
+.yui-skin-ootbTheme .info .meta-value a,
+.yui-skin-ootbTheme .rules-none a,
+.yui-skin-ootbTheme .agendaview a,
+.yui-skin-ootbTheme a.previousEvents,
+.yui-skin-ootbTheme a.nextEvents,
+.yui-skin-ootbTheme div.channels a
 {
    color: #333;
 }
 
-.yui-skin-keensoftTheme .tag a,
-.yui-skin-keensoftTheme .category a,
-.yui-skin-keensoftTheme .item-social a,
-.yui-skin-keensoftTheme .document-tags .tag
+.yui-skin-ootbTheme .tag a,
+.yui-skin-ootbTheme .category a,
+.yui-skin-ootbTheme .item-social a,
+.yui-skin-ootbTheme .document-tags .tag
 {
    color: #333;
 }
 
-.yui-skin-keensoftTheme .tag a,
-.yui-skin-keensoftTheme .document-tags .tag
+.yui-skin-ootbTheme .tag a,
+.yui-skin-ootbTheme .document-tags .tag
 {
    background-color: #eee;
 }
@@ -1201,7 +1201,7 @@ body.yui-skin-keensoftTheme .yui-columnbrowser .yui-carousel-content li.yui-colu
    color: #2598d0;
 }
 
-.yui-skin-keensoftTheme .rules-list a
+.yui-skin-ootbTheme .rules-list a
 {
    color: #333;
 }
@@ -1545,8 +1545,8 @@ body.alfresco-guest
    background-color: transparent !important;
 }
 
-.yui-skin-keensoftTheme .yui-resize .yui-resize-handle-inner-t,
-.yui-skin-keensoftTheme .yui-resize .yui-resize-handle-inner-b
+.yui-skin-ootbTheme .yui-resize .yui-resize-handle-inner-t,
+.yui-skin-ootbTheme .yui-resize .yui-resize-handle-inner-b
 {
    background: none !important;
 }
@@ -1901,7 +1901,7 @@ table td.thumbnail img
 }
 
 /* Image selector container */
-.yui-skin-keensoftTheme .yui-toolbar-container .yui-toolbar-titlebar
+.yui-skin-ootbTheme .yui-toolbar-container .yui-toolbar-titlebar
 {
    background-image: none !important;
 }

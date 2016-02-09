@@ -9,7 +9,7 @@
                     <source-id>global</source-id>
                     <sub-components>
                         <sub-component id="default">
-                            <url>/keensoft/components/hide-footer</url>
+                            <url>/orderofthebee/components/hide-footer</url>
                         </sub-component>
                     </sub-components>
                 </component>
@@ -17,7 +17,7 @@
             <customizations>
                 <customization>
                     <targetPackageRoot>org.alfresco.components</targetPackageRoot>
-                    <sourcePackageRoot>es.keensoft.components</sourcePackageRoot>
+                    <sourcePackageRoot>org.orderofthebee.components</sourcePackageRoot>
                 </customization>
             </customizations>
             <auto-deploy>true</auto-deploy>

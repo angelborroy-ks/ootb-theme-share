@@ -5,7 +5,7 @@
 			<customizations>
 				<customization>
 					<targetPackageRoot>org.alfresco.components</targetPackageRoot>
-					<sourcePackageRoot>es.keensoft.components</sourcePackageRoot>
+					<sourcePackageRoot>org.orderofthebee.components</sourcePackageRoot>
 				</customization>
 			</customizations>
 			<auto-deploy>true</auto-deploy>
