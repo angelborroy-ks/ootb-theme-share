@@ -1,0 +1,14 @@
+<extension>
+	<modules>
+		<module>
+			<id>Hide Elements Module</id>
+			<customizations>
+				<customization>
+					<targetPackageRoot>org.alfresco.components</targetPackageRoot>
+					<sourcePackageRoot>es.keensoft.components</sourcePackageRoot>
+				</customization>
+			</customizations>
+			<auto-deploy>true</auto-deploy>
+		</module>
+	</modules>
+</extension>

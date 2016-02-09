@@ -1,0 +1,26 @@
+<extension>
+    <modules>
+        <module>
+            <id>Hide Elements Module</id>
+            <components>
+                <component>
+                    <scope>global</scope>
+                    <region-id>footer</region-id>
+                    <source-id>global</source-id>
+                    <sub-components>
+                        <sub-component id="default">
+                            <url>/keensoft/components/hide-footer</url>
+                        </sub-component>
+                    </sub-components>
+                </component>
+            </components>
+            <customizations>
+                <customization>
+                    <targetPackageRoot>org.alfresco.components</targetPackageRoot>
+                    <sourcePackageRoot>es.keensoft.components</sourcePackageRoot>
+                </customization>
+            </customizations>
+            <auto-deploy>true</auto-deploy>
+        </module>
+    </modules>
+</extension>

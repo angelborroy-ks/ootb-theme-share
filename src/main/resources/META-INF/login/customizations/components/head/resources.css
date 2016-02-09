@@ -1,0 +1,107 @@
+.form-fields.login .form-field > span.yui-button,
+.form-fields.login .form-field > span.yui-button > .first-child {
+	border-color: #ffdd35 !important;	
+    background-color: #ffe14f !important;
+}
+
+.form-fields.login .form-field > span.yui-button > .first-child > button {
+    color: #0d0d0d !important;
+	border-color: #ffdd35 !important;	
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(css/fonts/open-sans/open-sans-normal-300.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(css/fonts/open-sans/open-sans-normal-400.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(css/fonts/open-sans/open-sans-normal-600.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(css/fonts/open-sans/open-sans-normal-700.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Open Sans Light Italic'), local('OpenSansLight-Italic'), url(css/fonts/open-sans/open-sans-italic-300.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(css/fonts/open-sans/open-sans-italic-400.woff) format('woff');
+}
+
+html * {
+   font-family: 'Open Sans', Arial, sans-serif !important;
+}
+
+.alfresco-share .alfresco-header-Header {
+	background-color: #fff !important;
+    text-transform: uppercase !important;
+}
+
+.alfresco-share .alfresco-header-Header .dijitReset.dijitInline.dijitMenuItemLabel.dijitMenuItem {
+	color: #333333 !important;
+}
+
+.alfresco-share .alfresco-header-Header .dijitReset.dijitInline.dijitMenuItemLabel.dijitMenuItemFocused {
+	background-color: #ddd !important;
+}
+
+.alfresco-share .alfresco-header-Header .dijitReset.dijitInline.dijitMenuItemLabel.dijitMenuItemHover {
+	background-color: #ddd !important;
+}
+
+.alfresco-share .alfresco-menus-AlfMenuBar .dijitMenuBar .dijitMenuItemSelected {
+	background-color: #fff !important;
+}
+
+.alfresco-share .share-header-title > div {
+    background-color: #ffe14f !important;
+}
+
+.alfresco-share h1.alfresco-header-Title .alfresco-header-Title__text {
+	color: #fff !important;
+}
+
+.alfresco-share .alfresco-header-SearchBox {
+	border-radius: 1px !important;
+	box-shadow: none !important;
+	font-size: 11px;
+}
+
+.alfresco-share .alf-header-menu-bar.alf-menu-groups {
+	background-color: #ddd !important;
+	border: 1px solid #ddd !important;
+	color: #1a1a1a !important;
+}
+
+.alfresco-share .alf-header-menu-bar .alf-menu-group.dijitMenu {
+	background-color: #ddd !important;
+	color: #1a1a1a !important;
+}
+
+.alfresco-share .alf-header-menu-bar .alf-menu-group .dijitReset.dijitMenuItem {
+	background-color: #ddd !important;
+	color: #1a1a1a !important;
+}
+
+.dashlet .title {
+	background-color: #ffe14f !important;
+	color:#1a1a1a !important;
+}

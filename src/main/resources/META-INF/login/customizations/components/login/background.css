@@ -1,0 +1,13 @@
+html {
+   background: url(images/honeycomb-pattern.png) no-repeat center center fixed; 
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;   
+}
+
+.theme-company-logo {
+    background: url("images/bee.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+    height: 296px !important;
+    width: 304px !important;
+}
