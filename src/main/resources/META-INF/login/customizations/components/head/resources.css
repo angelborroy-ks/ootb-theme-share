@@ -46,7 +46,7 @@
   src: local('Open Sans Italic'), local('OpenSans-Italic'), url(css/fonts/open-sans/open-sans-italic-400.woff) format('woff');
 }
 
-html * {
+html * :not(.mce-ico) {
    font-family: 'Open Sans', Arial, sans-serif !important;
 }
 
